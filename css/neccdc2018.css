@@ -1,3 +1,8 @@
 body {
     brand-primary: #000077 !global;
     }
+
+.gtco-social-icons li a i {
+    color : #cccccc;
+    font-size : 40px;
+    }
