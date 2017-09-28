@@ -21,17 +21,17 @@
     </head>
     <body>
 
-      <form action="signpup.api" method="post">
+      <form action="https://6s0enq4fe6.execute-api.us-east-1.amazonaws.com/prod/teamUpdate" method="post">
       
         <h1>Sign Up</h1>
         
         <fieldset>
-          <input type="text" id="school" name="school" placeholder="School name">
-          <input type="text" id="domain" name="domain" placeholder="Domain name; e.g. unh.edu">
-          <input type="text" id="cidr" name="cidr" placeholder="CIDR block; e.g. 132.177.0.0/16">
-          <input type="text" id="coach_name" name="coach_name" placeholder="Coach name">
-          <input type="email" id="coach_email" name="coach_email" placeholder="Coach email">
-          <input type="tel" id="coach_phone" name="coach_phone" placeholder="Coach phone#">
+          <input type="text" id="school" name="school" placeholder="School name" required>
+          <input type="text" id="domain" name="domain" placeholder="Domain name; e.g. unh.edu" required>
+          <input type="text" id="cidr" name="cidr" placeholder="CIDR block; e.g. 132.177.0.0/16" required>
+          <input type="text" id="coach_name" name="coach" placeholder="Coach name" required>
+          <input type="email" id="email" name="email" placeholder="Coach email" required>
+          <input type="tel" id="coach_phone" name="phone" placeholder="Coach phone#" required>
           
         </fieldset>
         
