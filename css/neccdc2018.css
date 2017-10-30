@@ -6,3 +6,7 @@ body {
     color : #cccccc;
     font-size : 40px;
     }
+    
+.thumbnail {
+    border : 0px;
+    }
