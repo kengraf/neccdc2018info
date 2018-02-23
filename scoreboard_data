@@ -100,8 +100,8 @@
     ], 
   "data": [
       {
-        "B1": "brown.team01.wildeagle.net:443 - False", 
-      "B2": "brown.team01.wildeagle.net:22 - False", 
+        "B1": "brown.team01.wildeagle.net:443 - True", 
+      "B2": "brown.team01.wildeagle.net:22 - True", 
       "C1": "Cao.team01.wildeagle.net:80 - False", 
       "C2": "cao.team01.wildeagle.net:3306 - False", 
       "Current Score": 0, 
