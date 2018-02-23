@@ -1,0 +1,304 @@
+
+{
+    "columns": [
+      {
+        "data": "Team Name", 
+      "title": "Team Name"
+      }, 
+    {
+        "data": "Current Score", 
+      "title": "Current Score"
+      }, 
+    {
+        "data": "R1", 
+      "title": "R1"
+      }, 
+    {
+        "data": "T1", 
+      "title": "T1"
+      }, 
+    {
+        "data": "T2", 
+      "title": "T2"
+      }, 
+    {
+        "data": "H1", 
+      "title": "H1"
+      }, 
+    {
+        "data": "H2", 
+      "title": "H2"
+      }, 
+    {
+        "data": "T1", 
+      "title": "T1"
+      }, 
+    {
+        "data": "T2", 
+      "title": "T2"
+      }, 
+    {
+        "data": "M1", 
+      "title": "M1"
+      }, 
+    {
+        "data": "M2", 
+      "title": "M2"
+      }, 
+    {
+        "data": "G1", 
+      "title": "G1"
+      }, 
+    {
+        "data": "G2", 
+      "title": "G2"
+      }, 
+    {
+        "data": "D1", 
+      "title": "D1"
+      }, 
+    {
+        "data": "H1", 
+      "title": "H1"
+      }, 
+    {
+        "data": "H2", 
+      "title": "H2"
+      }, 
+    {
+        "data": "P1", 
+      "title": "P1"
+      }, 
+    {
+        "data": "B1", 
+      "title": "B1"
+      }, 
+    {
+        "data": "B2", 
+      "title": "B2"
+      }, 
+    {
+        "data": "M1", 
+      "title": "M1"
+      }, 
+    {
+        "data": "M2", 
+      "title": "M2"
+      }, 
+    {
+        "data": "C1", 
+      "title": "C1"
+      }, 
+    {
+        "data": "C2", 
+      "title": "C2"
+      }, 
+    {
+        "data": "S1", 
+      "title": "S1"
+    }
+    ], 
+  "data": [
+      {
+        "B1": "brown.team01.wildeagle.net:443 - False", 
+      "B2": "brown.team01.wildeagle.net:22 - False", 
+      "C1": "Cao.team01.wildeagle.net:80 - False", 
+      "C2": "cao.team01.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team01.wildeagle.net:80 - False", 
+      "G1": "gently.team01.wildeagle.net:443 - False", 
+      "G2": "gently.team01.wildeagle.net - False", 
+      "H1": "holmes.team01.wildeagle.local:53 - False", 
+      "H2": "holmes.team01.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team01.wildeagle.local:21 - False", 
+      "M2": "marple.team01.wildeagle.local:5432 - False", 
+      "P1": "piorot.team01.wildeagle.net:80 - False", 
+      "R1": "renko.team01.wildeagle.local - False", 
+      "S1": "spade.team01.wildeagle.net:80 - False", 
+      "T1": "tracy.team01.wildeagle.local:22 - False", 
+      "T2": "tracy.team01.wildeagle.local:5900 - False", 
+      "Team Name": "Team1"
+      }, 
+    {
+        "B1": "brown.team02.wildeagle.net:443 - False", 
+      "B2": "brown.team02.wildeagle.net:22 - False", 
+      "C1": "Cao.team02.wildeagle.net:80 - False", 
+      "C2": "cao.team02.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team02.wildeagle.net:80 - False", 
+      "G1": "gently.team02.wildeagle.net:443 - False", 
+      "G2": "gently.team02.wildeagle.net - False", 
+      "H1": "holmes.team02.wildeagle.local:53 - False", 
+      "H2": "holmes.team02.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team02.wildeagle.local:21 - False", 
+      "M2": "marple.team02.wildeagle.local:5432 - False", 
+      "P1": "piorot.team02.wildeagle.net:80 - False", 
+      "R1": "renko.team02.wildeagle.local - False", 
+      "S1": "spade.team02.wildeagle.net:80 - False", 
+      "T1": "tracy.team02.wildeagle.local:22 - False", 
+      "T2": "tracy.team02.wildeagle.local:5900 - False", 
+      "Team Name": "Team2"
+      }, 
+    {
+        "B1": "brown.team03.wildeagle.net:443 - False", 
+      "B2": "brown.team03.wildeagle.net:22 - False", 
+      "C1": "Cao.team03.wildeagle.net:80 - False", 
+      "C2": "cao.team03.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team03.wildeagle.net:80 - False", 
+      "G1": "gently.team03.wildeagle.net:443 - False", 
+      "G2": "gently.team03.wildeagle.net - False", 
+      "H1": "holmes.team03.wildeagle.local:53 - False", 
+      "H2": "holmes.team03.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team03.wildeagle.local:21 - False", 
+      "M2": "marple.team03.wildeagle.local:5432 - False", 
+      "P1": "piorot.team03.wildeagle.net:80 - False", 
+      "R1": "renko.team03.wildeagle.local - False", 
+      "S1": "spade.team03.wildeagle.net:80 - False", 
+      "T1": "tracy.team03.wildeagle.local:22 - False", 
+      "T2": "tracy.team03.wildeagle.local:5900 - False", 
+      "Team Name": "Team3"
+      }, 
+    {
+        "B1": "brown.team04.wildeagle.net:443 - False", 
+      "B2": "brown.team04.wildeagle.net:22 - False", 
+      "C1": "Cao.team04.wildeagle.net:80 - False", 
+      "C2": "cao.team04.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team04.wildeagle.net:80 - False", 
+      "G1": "gently.team04.wildeagle.net:443 - False", 
+      "G2": "gently.team04.wildeagle.net - False", 
+      "H1": "holmes.team04.wildeagle.local:53 - False", 
+      "H2": "holmes.team04.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team04.wildeagle.local:21 - False", 
+      "M2": "marple.team04.wildeagle.local:5432 - False", 
+      "P1": "piorot.team04.wildeagle.net:80 - False", 
+      "R1": "renko.team04.wildeagle.local - False", 
+      "S1": "spade.team04.wildeagle.net:80 - False", 
+      "T1": "tracy.team04.wildeagle.local:22 - False", 
+      "T2": "tracy.team04.wildeagle.local:5900 - False", 
+      "Team Name": "Team4"
+      }, 
+    {
+        "B1": "brown.team05.wildeagle.net:443 - False", 
+      "B2": "brown.team05.wildeagle.net:22 - False", 
+      "C1": "Cao.team05.wildeagle.net:80 - False", 
+      "C2": "cao.team05.wildeagle.net:3306 - False", 
+      "Current Score": 4000, 
+      "D1": "dupin.team05.wildeagle.net:80 - False", 
+      "G1": "gently.team05.wildeagle.net:443 - False", 
+      "G2": "gently.team05.wildeagle.net - False", 
+      "H1": "holmes.team05.wildeagle.local:53 - False", 
+      "H2": "holmes.team05.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team05.wildeagle.local:21 - False", 
+      "M2": "marple.team05.wildeagle.local:5432 - False", 
+      "P1": "piorot.team05.wildeagle.net:80 - False", 
+      "R1": "renko.team05.wildeagle.local - False", 
+      "S1": "spade.team05.wildeagle.net:80 - False", 
+      "T1": "tracy.team05.wildeagle.local:22 - False", 
+      "T2": "tracy.team05.wildeagle.local:5900 - False", 
+      "Team Name": "Team5"
+      }, 
+    {
+        "B1": "brown.team06.wildeagle.net:443 - False", 
+      "B2": "brown.team06.wildeagle.net:22 - False", 
+      "C1": "Cao.team06.wildeagle.net:80 - False", 
+      "C2": "cao.team06.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team06.wildeagle.net:80 - False", 
+      "G1": "gently.team06.wildeagle.net:443 - False", 
+      "G2": "gently.team06.wildeagle.net - False", 
+      "H1": "holmes.team06.wildeagle.local:53 - False", 
+      "H2": "holmes.team06.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team06.wildeagle.local:21 - False", 
+      "M2": "marple.team06.wildeagle.local:5432 - False", 
+      "P1": "piorot.team06.wildeagle.net:80 - False", 
+      "R1": "renko.team06.wildeagle.local - False", 
+      "S1": "spade.team06.wildeagle.net:80 - False", 
+      "T1": "tracy.team06.wildeagle.local:22 - False", 
+      "T2": "tracy.team06.wildeagle.local:5900 - False", 
+      "Team Name": "Team6"
+      }, 
+    {
+        "B1": "brown.team07.wildeagle.net:443 - False", 
+      "B2": "brown.team07.wildeagle.net:22 - False", 
+      "C1": "Cao.team07.wildeagle.net:80 - False", 
+      "C2": "cao.team07.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team07.wildeagle.net:80 - False", 
+      "G1": "gently.team07.wildeagle.net:443 - False", 
+      "G2": "gently.team07.wildeagle.net - False", 
+      "H1": "holmes.team07.wildeagle.local:53 - False", 
+      "H2": "holmes.team07.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team07.wildeagle.local:21 - False", 
+      "M2": "marple.team07.wildeagle.local:5432 - False", 
+      "P1": "piorot.team07.wildeagle.net:80 - False", 
+      "R1": "renko.team07.wildeagle.local - False", 
+      "S1": "spade.team07.wildeagle.net:80 - False", 
+      "T1": "tracy.team07.wildeagle.local:22 - False", 
+      "T2": "tracy.team07.wildeagle.local:5900 - False", 
+      "Team Name": "Team7"
+      }, 
+    {
+        "B1": "brown.team08.wildeagle.net:443 - False", 
+      "B2": "brown.team08.wildeagle.net:22 - False", 
+      "C1": "Cao.team08.wildeagle.net:80 - False", 
+      "C2": "cao.team08.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team08.wildeagle.net:80 - False", 
+      "G1": "gently.team08.wildeagle.net:443 - False", 
+      "G2": "gently.team08.wildeagle.net - False", 
+      "H1": "holmes.team08.wildeagle.local:53 - False", 
+      "H2": "holmes.team08.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team08.wildeagle.local:21 - False", 
+      "M2": "marple.team08.wildeagle.local:5432 - False", 
+      "P1": "piorot.team08.wildeagle.net:80 - False", 
+      "R1": "renko.team08.wildeagle.local - False", 
+      "S1": "spade.team08.wildeagle.net:80 - False", 
+      "T1": "tracy.team08.wildeagle.local:22 - False", 
+      "T2": "tracy.team08.wildeagle.local:5900 - False", 
+      "Team Name": "Team8"
+      }, 
+    {
+        "B1": "brown.team09.wildeagle.net:443 - False", 
+      "B2": "brown.team09.wildeagle.net:22 - False", 
+      "C1": "Cao.team09.wildeagle.net:80 - False", 
+      "C2": "cao.team09.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team09.wildeagle.net:80 - False", 
+      "G1": "gently.team09.wildeagle.net:443 - False", 
+      "G2": "gently.team09.wildeagle.net - False", 
+      "H1": "holmes.team09.wildeagle.local:53 - False", 
+      "H2": "holmes.team09.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team09.wildeagle.local:21 - False", 
+      "M2": "marple.team09.wildeagle.local:5432 - False", 
+      "P1": "piorot.team09.wildeagle.net:80 - False", 
+      "R1": "renko.team09.wildeagle.local - False", 
+      "S1": "spade.team09.wildeagle.net:80 - False", 
+      "T1": "tracy.team09.wildeagle.local:22 - False", 
+      "T2": "tracy.team09.wildeagle.local:5900 - False", 
+      "Team Name": "Team9"
+      }, 
+    {
+        "B1": "brown.team10.wildeagle.net:443 - False", 
+      "B2": "brown.team10.wildeagle.net:22 - False", 
+      "C1": "Cao.team10.wildeagle.net:80 - False", 
+      "C2": "cao.team10.wildeagle.net:3306 - False", 
+      "Current Score": 0, 
+      "D1": "dupin.team10.wildeagle.net:80 - False", 
+      "G1": "gently.team10.wildeagle.net:443 - False", 
+      "G2": "gently.team10.wildeagle.net - False", 
+      "H1": "holmes.team10.wildeagle.local:53 - False", 
+      "H2": "holmes.team10.wildeagle.local:389 - False", 
+      "M1": "testbed_ftp.team10.wildeagle.local:21 - False", 
+      "M2": "marple.team10.wildeagle.local:5432 - False", 
+      "P1": "piorot.team10.wildeagle.net:80 - False", 
+      "R1": "renko.team10.wildeagle.local - False", 
+      "S1": "spade.team10.wildeagle.net:80 - False", 
+      "T1": "tracy.team10.wildeagle.local:22 - False", 
+      "T2": "tracy.team10.wildeagle.local:5900 - False", 
+      "Team Name": "Team10"
+    }
+    ], 
+  "last_updated": "2018-02-23 13:29:35.758208"
+}
